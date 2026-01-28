@@ -1,0 +1,6 @@
+#include "Release.xcconfig"
+
+// Staging Flavor Configuration
+PRODUCT_BUNDLE_IDENTIFIER=com.example.todoApplication.staging
+APP_DISPLAY_NAME=TODO Staging
+FLAVOR_NAME=staging

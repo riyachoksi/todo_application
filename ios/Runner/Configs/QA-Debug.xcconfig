@@ -1,0 +1,6 @@
+#include "Debug.xcconfig"
+
+// QA Flavor Configuration
+PRODUCT_BUNDLE_IDENTIFIER=com.example.todoApplication.qa
+APP_DISPLAY_NAME=TODO QA
+FLAVOR_NAME=qa

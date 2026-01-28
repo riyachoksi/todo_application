@@ -1,0 +1,6 @@
+#include "Release.xcconfig"
+
+// Production Flavor Configuration
+PRODUCT_BUNDLE_IDENTIFIER=com.example.todoApplication
+APP_DISPLAY_NAME=TODO
+FLAVOR_NAME=prod

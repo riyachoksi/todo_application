@@ -1,0 +1,6 @@
+#include "Release.xcconfig"
+
+// Dev Flavor Configuration
+PRODUCT_BUNDLE_IDENTIFIER=com.example.todoApplication.dev
+APP_DISPLAY_NAME=TODO Dev
+FLAVOR_NAME=dev
